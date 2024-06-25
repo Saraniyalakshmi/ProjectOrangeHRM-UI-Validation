@@ -7,7 +7,7 @@ OrangeHRM is web based system to maintain employee database. This projects uses 
 
 - orangehrm/orangehrmui.py has implementation of selenium of code to automate the testing of OrangeHRM UI
 - tests/test_orangehrmui.py Test cases written using pytest
-- Test cases were validated successfully and documented in TestResults_Screenshot.docx
+- Test cases were validated successfully and documented in TestResults_UI_Screenshot.docx
   
 ## Getting Started
 
